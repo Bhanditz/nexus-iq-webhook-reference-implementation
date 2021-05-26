@@ -9,7 +9,7 @@
   "author": "jyoung@sonatype.com",
   "license": "Apache-2.0",
   "dependencies": {
-    "@slack/client": "^3.16.0",
+    "@slack/client": "^5.0.0",
     "express": "^4.16.2",
     "serverless-http": "^1.5.3"
   },
